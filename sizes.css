@@ -4,3 +4,13 @@
     position: relative;
     bottom: 60%;
 }
+table{
+    width: 30%;
+    height: 40vh;
+    position: relative;
+    left: 35%;
+}
+.rad{
+    position: relative;
+    bottom: 230%;
+}
