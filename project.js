@@ -1,4 +1,7 @@
-var sidebar = document.getElementById('sidebar');
+window.addEventListener(
+    'load',
+    () => {
+        var sidebar = document.getElementById('sidebar');
 var menubarFc = document.getElementById('menubar');
 
 menubarFc.addEventListener(
@@ -7,5 +10,17 @@ menubarFc.addEventListener(
     function(){
     sidebar.classList.toggle('active');
     });
+    }
+);
+
+
+
+
+
+
+
+
+
+
 
 
