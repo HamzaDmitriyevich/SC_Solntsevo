@@ -2,7 +2,7 @@
     width: 20%;
     height: 10vh;
     position: relative;
-    bottom: 60%;
+    bottom: 51%;
 }
 table{
     width: 30%;
@@ -13,4 +13,10 @@ table{
 .rad{
     position: relative;
     bottom: 230%;
+}
+
+#menubar{
+    border-radius: 20%;
+    position: relative;
+    right: 350px;
 }
