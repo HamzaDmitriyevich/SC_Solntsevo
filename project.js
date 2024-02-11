@@ -2,9 +2,9 @@ window.addEventListener(
     'load',
     () => {
         var sidebar = document.getElementById('sidebar');
-var menubarFc = document.getElementById('menubar1');
+var menubar1 = document.getElementById('menubar1');
 
-menubarFc.addEventListener(
+menubar1.addEventListener(
     'click',
     
     function(){
